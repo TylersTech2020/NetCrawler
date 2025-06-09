@@ -254,7 +254,7 @@ echo "Scan completed at $(date)" >> "$OUTPUT_FILE"
 - **Metasploit**: Include exploit modules (e.g., `exploit/multi/http/dlink_dir_615h1_auth_bypass`).
 - **Error Handling**: Improve for timeouts or tool failures.
 
-Would you like me to:
+ToDo:
 - Add specific RouterSploit or Metasploit modules for a router brand (e.g., D-Link)?
 - Provide a sample wordlist or detailed setup instructions?
 - Optimize for speed or specific vulnerabilities?
